@@ -114,3 +114,4 @@ Data Manipulation Language (DML) adalah bahasa pemrograman yang digunakan untuk 
 
 Di DML, pengguna dapat mengakses data menggunakan perintah SQL (Structured Query Language). SQL adalah bahasa standar untuk mengakses dan mengelola data dalam basis data relasional. Perintah SQL yang digunakan dalam DML adalah untuk menyisipkan, memodifikasi, menghapus, dan menampilkan data seperti dijelaskan di atas. 
 ```
+
